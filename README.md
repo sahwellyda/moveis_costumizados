@@ -1,4 +1,4 @@
-# Projeto Rockeseat
+# Projeto Rocketseat
 
  Projeto Desenvolvido durante as aulas do curso do Rocketseat
 
