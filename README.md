@@ -1,4 +1,5 @@
-# moveis_costumizados
+# Projeto Rockeseat
+
  Projeto Desenvolvido durante as aulas do curso do Rocketseat
 
 Abaixo a page ⤵
